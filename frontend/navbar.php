@@ -7,16 +7,19 @@
 </head>
 <body>
 
-<nav class="navbar navbar-inverse navbar-fixed">
+<nav class="navbar navbar-inverse">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="#">MeetingofSports</a>
+            <a class="navbar-brand" href="#">
+<!--                <img src="../images/logo/logo.png" alt="Logo" style="width:20px;">-->
+                MeetingofSports
+            </a>
         </div>
         <ul class="nav navbar-nav">
 
         </ul>
         <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="index.php"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+            <li class=""><a href="index.php"><span class="glyphicon glyphicon-home"></span>Home</a></li>
             <li><a href="#"><span class="glyphicon glyphicon-map-marker"></span>Location</a></li>
             <!-- <li><a href="#">Page 2</a></li> -->
             <li><a href="form_register.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>

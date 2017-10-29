@@ -10,7 +10,7 @@
 <!--    <link rel="stylesheet" type="text/css" href="../css/background.css">-->
 </head>
 <body>
-
+        <?php require ('navbar.php');?>
 		<?php require ('main.php');?>
 		
 
